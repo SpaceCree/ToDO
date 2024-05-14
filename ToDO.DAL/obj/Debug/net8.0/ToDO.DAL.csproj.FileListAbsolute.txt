@@ -1,0 +1,15 @@
+E:\rider\ToDo\ToDO.DAL\bin\Debug\net8.0\ToDO.DAL.deps.json
+E:\rider\ToDo\ToDO.DAL\bin\Debug\net8.0\ToDO.DAL.dll
+E:\rider\ToDo\ToDO.DAL\bin\Debug\net8.0\ToDO.DAL.pdb
+E:\rider\ToDo\ToDO.DAL\bin\Debug\net8.0\ToDo.Domain.dll
+E:\rider\ToDo\ToDO.DAL\bin\Debug\net8.0\ToDo.Domain.pdb
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.csproj.AssemblyReference.cache
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.AssemblyInfoInputs.cache
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.AssemblyInfo.cs
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.csproj.CoreCompileInputs.cache
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.csproj.Up2Date
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.dll
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\refint\ToDO.DAL.dll
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ToDO.DAL.pdb
+E:\rider\ToDo\ToDO.DAL\obj\Debug\net8.0\ref\ToDO.DAL.dll

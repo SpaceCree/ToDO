@@ -1,0 +1,11 @@
+E:\rider\ToDo\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.deps.json
+E:\rider\ToDo\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.dll
+E:\rider\ToDo\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.pdb
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfoInputs.cache
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfo.cs
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.dll
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\refint\ToDo.Domain.dll
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.pdb
+E:\rider\ToDo\ToDo.Domain\obj\Debug\net8.0\ref\ToDo.Domain.dll

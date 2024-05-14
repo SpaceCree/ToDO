@@ -1,0 +1,17 @@
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDo.Service.deps.json
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDo.Service.dll
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDo.Service.pdb
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDO.DAL.dll
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDo.Domain.dll
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDO.DAL.pdb
+E:\rider\ToDo\ToDo.Service\bin\Debug\net8.0\ToDo.Domain.pdb
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.csproj.AssemblyReference.cache
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.AssemblyInfoInputs.cache
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.AssemblyInfo.cs
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.csproj.CoreCompileInputs.cache
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Ser.420019CF.Up2Date
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.dll
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\refint\ToDo.Service.dll
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ToDo.Service.pdb
+E:\rider\ToDo\ToDo.Service\obj\Debug\net8.0\ref\ToDo.Service.dll
